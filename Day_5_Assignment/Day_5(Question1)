@@ -1,0 +1,36 @@
+"""
+Question 1
+Name 5 sorting algorithms, also write their time complexities(best, average, worst).
+"""
+
+Answer :-
+
+1) Bubble Sort
+    Time Complexities:
+    a) best - O(n)
+    b) average - O(n^2)
+    c) worst - O(n^2)
+
+2) Insertion Sort
+    Time Complexities:
+    a) best - O(n)
+    b) average - O(n^2)
+    c) worst - O(n^2)
+
+3) Selection Sort
+    Time Complexities:
+    a) best - O(n^2)
+    b) average - O(n^2)
+    c) worst - O(n^2)
+
+4) Merge Sort
+    Time Complexities:
+    a) best - O(nlogn)
+    b) average - O(nlogn)
+    c) worst - O(nlogn)
+
+5) Quick Sort
+    Time Complexities:
+    a) best - O(nlogn)
+    b) average - O(nlogn)
+    c) worst - O(n^2)
